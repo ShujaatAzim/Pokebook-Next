@@ -4,6 +4,7 @@ export default function Home() {
       <div className=''>PokeBook</div>
       <div>Navigation</div>
       <div>Landing Page</div>
+      <div>Footer</div>
     </main>
   );
 }
