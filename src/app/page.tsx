@@ -6,5 +6,5 @@ export default function Home() {
       <section>Landing Page</section>
       <section>Footer</section>
     </main>
-  );
+  )
 }

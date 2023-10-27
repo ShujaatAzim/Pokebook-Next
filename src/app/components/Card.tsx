@@ -1,3 +1,3 @@
 export default function Card(): React.ReactElement {
-  return <div>Card</div>;
+  return <div>Card</div>
 }
