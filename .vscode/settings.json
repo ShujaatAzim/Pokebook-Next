@@ -1,0 +1,7 @@
+{
+  "prettier.arrowParens": "avoid",
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true
+}
