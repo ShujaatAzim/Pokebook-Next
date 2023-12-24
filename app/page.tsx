@@ -1,10 +1,17 @@
-export default function Home () {
+import NavBar from '../components/NavBar'
+import Footer from '../components/Footer'
+
+export default function Home() {
   return (
     <main className=''>
       <div className=''>PokeBook</div>
-      <section>Navigation</section>
+      <section>
+        <NavBar />
+      </section>
       <section>Landing Page</section>
-      <section>Footer</section>
+      <section>
+        <Footer />
+      </section>
     </main>
   )
 }
